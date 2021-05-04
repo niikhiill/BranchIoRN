@@ -36,7 +36,7 @@
              <data android:scheme="https" android:host="bb3iz.app.link" />
         </intent-filter>
       </activity>
-      <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_ng0aP1gIc9gl7E2qkNYTrhcmDygRqa4a"/>
-        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_ci3eH7kVc5jcWr7xeT0YYkogEDcKEpYw"/>
+      <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_"/>
+        <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_"/>
     </application>
 </manifest>
